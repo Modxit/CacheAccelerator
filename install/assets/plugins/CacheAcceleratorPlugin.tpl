@@ -1,6 +1,6 @@
 //<?php
 /**
- * CacheAcceleratorPlugin
+ * CacheAccelerator
  *
  * Clear CacheAccelerator cache files and managing autocache
  *
