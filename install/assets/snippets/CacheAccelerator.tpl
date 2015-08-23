@@ -2,7 +2,7 @@
 /**
  * CacheAccelerator
  *
- * Clear CacheAccelerator cache files and managing autocache
+ * Pulisce i file di cache di CacheAccelerator e gestisce l'autocache
  *
  * @category    snippet
  * @version     0.4b

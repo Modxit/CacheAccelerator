@@ -1,16 +1,16 @@
 <?php
-//Функция сравнения. Работает в соответствии с функцией сравнения Ditto
+//La funzione di confronto. Funziona come la funzione di confronto Ditto
 if(!function_exists('cacheFieldsCompare')) {
     function cacheFieldsCompare ($param1, $param2, $param3){
 /*
-1 or != Не равно
-2 or =  Равно
-3 or <  Меньше чем 
-4 or >  Больше чем
-5 or <= Меньше чем или равно
-6 or >= Больше чем или равно
-7   Содержит
-8   Не содержит
+1 or != Diverso
+2 or =  Uguale
+3 or <  Меinore
+4 or >  Maggiore
+5 or <= Minore o uguale
+6 or >= Maggiore o uguale
+7   Contiene
+8   Non contiene
 */
         switch($param3){
            case 1:

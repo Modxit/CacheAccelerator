@@ -9,7 +9,7 @@
  * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @package     modx
  * @author      thebat053
- * @internal    @properties &only_manual=Only manual clear;list;yes,no;no &autoCache=Autocache;list;enabled,disabled;disabled &autoCacheSnippets=Snippets to Autocache ('ditto,jot');string;all &autoCacheExcludeSnippets=Snippets to exclude ('snippet1, snippet2');string;include &dropCacheGroups=Groups to clear ('default, news');string;all &dropCacheFields=Drop cache fields;string;JotForm||post,true,2||,publish,2||,unpublish,2||,delete,2||,edit,2 &showSnippets=Show snippets log;list;full,short,no;no &showSystemData=Show system data;list;yes,no;no
+ * @internal    @properties &only_manual=Solo pulizia manuale;list;yes,no;no &autoCache=Autocache;list;enabled,disabled;disabled &autoCacheSnippets=Snippets su cui attivare Autocache ('ditto,jot');string;all &autoCacheExcludeSnippets=Snippets da escludere ('snippet1, snippet2');string;include &dropCacheGroups=Gruppi da pulire ('default, news');string;all &dropCacheFields=Svuota i campi;string;JotForm||post,true,2||,publish,2||,unpublish,2||,delete,2||,edit,2 &showSnippets=Mostra i log degli snippet;list;full,short,no;no &showSystemData=Mostra i dati di sistema;list;yes,no;no
  * @internal    @events OnLoadWebDocument,OnWebPagePrerender,OnCacheUpdate,OnSiteRefresh
  * @internal    @modx_category
  * @internal    @installset base
